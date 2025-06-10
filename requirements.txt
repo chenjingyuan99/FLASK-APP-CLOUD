@@ -1,0 +1,8 @@
+Flask
+pandas
+azure-storage-blob
+python-dotenv
+dotenv
+gunicorn
+
+
